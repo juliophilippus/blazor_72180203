@@ -53,7 +53,7 @@ namespace LatihanBlazor.Pages
                 EmployeeId = 4,
                 FirstName = "Gebian",
                 LastName = "Star",
-                Email = "yeyen@gmail.com",
+                Email = "gebian@gmail.com",
                 DateOfBirth = new DateTime(2000,4,10),
                 Gender = Gender.Female,
                 Department= new Department{DepartmentId = 3, DepartmentName = "Business"},
